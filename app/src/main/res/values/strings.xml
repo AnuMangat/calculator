@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">CALCULATOR</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">x</string>
+    <string name="divide">/</string>
+    <string name="clear">Clear</string>
+    <string name="MR">MR</string>
+    <string name="MC">MC</string>
+    <string name="Madd">M+</string>
+    <string name="Mminus">M-</string>
+    <string name="Decimal">.</string>
+    <string name="Delete">DEL</string>
+    <string name="equal">=</string>
+    <string name="std">STANDARD</string>
+    <string name="sci">SCIENTIFIC</string>
+    <string name="hex">HEX</string>
+    <string name="dec">DEC</string>
+    <string name="oct">OCT</string>
+    <string name="bin">BIN</string>
+    <string name="ln">ln</string>
+    <string name="log">log</string>
+    <string name="tenx"><![CDATA[10<sup><small>X</small></sup>]]></string>
+    <string name="xy"><![CDATA[X<sup><small>Y</small></sup>]]></string>
+    <string name="square"><![CDATA[x<sup><small>2</small></sup>]]></string>
+    <string name="cube"><![CDATA[x<sup><small>3</small></sup>]]></string>
+    <string name="pie"><![CDATA[&Pi;]]></string>
+    <string name="exp">exp</string>
+    <string name="divbyx">1/x</string>
+    <string name="sqrt"><![CDATA[&#8730;]]></string>
+    <string name="prg">PROGRAMMER</string>
+    <string name="mod">mod</string>
+    <string name="abs">|x|</string>
+
+</resources>
